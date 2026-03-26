@@ -31,7 +31,7 @@ const Education = () => {
     {
       id: 3,
       institution: "Lovely Professional University",
-      location: "Ludhiana, Punjab",
+      location: "Phagwara, Punjab",
       degree: "B.Tech. Computer Science & Engineering",
       date: "Aug 2023 – Present",
       gradeType: "CGPA",

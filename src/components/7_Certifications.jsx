@@ -176,7 +176,7 @@ const Certifications = () => {
           <div className="flex items-center gap-4 ml-1 mb-8">
             <div className="w-12 h-px bg-[#E32219]"></div>
             <span className="font-heading text-lg md:text-xl font-bold tracking-widest text-[#111111] uppercase">
-              CREDENTIALS
+              CERTIFICATIONS
             </span>
           </div>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 w-full">

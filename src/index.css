@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  background-color: #F7F7F7; /* Switched to the clean Off-White */
+  color: #111111; /* Default text color is now black */
+}
+
+/* Custom Red Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #F7F7F7; /* Matches the white background */
+}
+::-webkit-scrollbar-thumb {
+  background: #E32219; /* The Ferrari Red thumb */
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b91c14;
+}

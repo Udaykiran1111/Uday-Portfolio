@@ -69,7 +69,7 @@ const Summary = () => {
           </div>
 
           <h2 className="font-heading text-[12vw] lg:text-[8.5vw] xl:text-[9vw] font-bold leading-[0.8] tracking-[-0.03em] text-[#111111] m-0 p-0 uppercase">
-            Data Science & M L<br/>
+            Data Scientist & ML<br/>
             <span className="text-[#E32219]">Engineer</span>
           </h2>
 

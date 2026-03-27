@@ -80,8 +80,8 @@ const Summary = () => {
 
         <div ref={imageRef} className="flex justify-center items-center w-full lg:w-[35%] max-w-[500px] will-change-transform">
           <img 
-            src="/images/summary-graphic.png" 
-            alt="Monochrome Abstract Graphic" 
+            src="/images/" 
+            alt="" 
             className="w-full h-auto object-contain grayscale contrast-125 lg:transform lg:-translate-y-8 drop-shadow-2xl"
           />
         </div>

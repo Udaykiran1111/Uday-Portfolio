@@ -59,7 +59,7 @@ const Contact = () => {
 
               <div className="flex gap-12 pt-4">
                 <a href="https://linkedin.com/in/uday-kiran-vattikuti" target="_blank" rel="noopener noreferrer" className="font-heading text-lg font-bold text-[#E32219] uppercase tracking-widest hover:text-[#111111] transition-colors border-b-2 border-transparent hover:border-[#111111]">LinkedIn ↗</a>
-                <a href="https://github.com/Vattikutiudaykiran" target="_blank" rel="noopener noreferrer" className="font-heading text-lg font-bold text-[#E32219] uppercase tracking-widest hover:text-[#111111] transition-colors border-b-2 border-transparent hover:border-[#111111]">GitHub ↗</a>
+                <a href="https://github.com/Udaykiran1111" target="_blank" rel="noopener noreferrer" className="font-heading text-lg font-bold text-[#E32219] uppercase tracking-widest hover:text-[#111111] transition-colors border-b-2 border-transparent hover:border-[#111111]">GitHub ↗</a>
               </div>
             </div>
           </div>

@@ -16,7 +16,7 @@ const Footer = () => {
               UDAY<br/><span className="text-[#E32219]">KIRAN</span>
             </h2>
             <p className="font-body text-xs text-gray-500 tracking-widest uppercase font-bold">
-              Data Scientist & Developer
+              Data Scientist & ML Engineer<br/>
             </p>
           </div>
 
@@ -32,8 +32,7 @@ const Footer = () => {
           <div className="flex flex-col gap-4">
             <h4 className="font-heading text-sm font-bold text-gray-500 uppercase tracking-widest mb-2">Network</h4>
             <a href="https://linkedin.com" target="_blank" className="font-heading text-lg hover:text-[#E32219] transition-colors uppercase">LinkedIn ↗</a>
-            <a href="https://github.com" target="_blank" className="font-heading text-lg hover:text-[#E32219] transition-colors uppercase">GitHub ↗</a>
-            <a href="https://vattikuti.com" target="_blank" className="font-heading text-lg hover:text-[#E32219] transition-colors uppercase">Portfolio</a>
+            <a href="https://github.com/Udaykiran1111" target="_blank" className="font-heading text-lg hover:text-[#E32219] transition-colors uppercase">GitHub ↗</a>
           </div>
 
           {/* Legal Column */}

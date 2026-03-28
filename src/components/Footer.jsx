@@ -54,7 +54,7 @@ const Footer = () => {
           {/* Copyright Info */}
           <div className="flex flex-col items-center md:items-end gap-2">
             <p className="font-heading text-[10px] md:text-xs tracking-widest text-gray-500 uppercase font-bold">
-              ©{currentYear} UDAY KIRAN ALL RIGHTS RESERVED — SITE BY GEMINI
+              ©{currentYear} UDAY KIRAN ALL RIGHTS RESERVED 
             </p>
             <p className="font-heading text-[9px] tracking-[0.2em] text-gray-700 uppercase">
               Driven by Data • Engineered for Excellence
